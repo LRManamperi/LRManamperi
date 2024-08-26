@@ -6,7 +6,7 @@
 
 <h3>About Me:</h3>
 
-- 👀 I'm interested in **Full Stack Development and DevoOps**
+- 👀 I'm interested in **Full Stack Development and DevOps**
 - 🧑‍🎓 I’m currently a 3rd year CSE Undergraduate at **University of Moratuwa**
 - 💬 Ask me about **Computer Science | Web Development**
 - 📫 How to reach me: **lakshani.21@cse.mrt.ac.lk**
