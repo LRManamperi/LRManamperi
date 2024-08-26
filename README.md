@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lakshani Rasanjali Manamperi</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=LRManamperi&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanimanamperi" /></p>
+<img align="right" src="https://github.com/JaneeshaJ2001/JaneeshaJ2001/blob/main/working_space.gif?raw=true" alt="working_space" width="40%" />
 
 
 <h3>About Me:</h3>
