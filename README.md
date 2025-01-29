@@ -8,7 +8,7 @@
 
 - 👀 I'm interested in **Full Stack Development, Machine Learning and DevOps**
 - 🧑‍🎓 I’m currently a 3rd year CSE Undergraduate at **University of Moratuwa**
-- 💬 Ask me about **Computer Science | Web Development**
+- 💬 Ask me about **Computer Science | Web Development | Machine Learning | Application Integration**
 - 📫 How to reach me: **lakshani.21@cse.mrt.ac.lk**
 
 <br>
