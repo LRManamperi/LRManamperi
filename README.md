@@ -13,7 +13,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 Passionate about **Full Stack Development, Machine Learning, and Cloud Computing**
-- 🎓 3rd year CSE Undergraduate at **University of Moratuwa**
+- 🎓 4th year CSE Undergraduate at **University of Moratuwa**
 - 💬 Ask me about **Web Development | ML | App Integration | Dev Tools**
 - 📫 Reach me at: **lakshani.21@cse.mrt.ac.lk**
 
