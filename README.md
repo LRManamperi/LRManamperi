@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=LRManamperi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-<!--   <img src="https://cdn.pixabay.com/photo/2018/01/18/07/00/girl-3083372_1280.jpg" alt="girl coding" width="40%" align="left"/> -->
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -58,7 +54,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" />
@@ -75,8 +71,8 @@
 
 #### ☁️ Cloud & DevOps
 <p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
@@ -99,10 +95,13 @@
 
 ---
 
-### 📊 GitHub Stats (2025)
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LRManamperi&theme=github-dark-blue&starting_year=2025" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LRManamperi&show_icons=true&theme=github_dark&custom_title=Overall%20GitHub%20Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LRManamperi&theme=github-dark-blue" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LRManamperi&show_icons=true&theme=github_dark" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRManamperi&layout=compact&theme=github_dark" width="49%" />
+</p>
