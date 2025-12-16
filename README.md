@@ -99,9 +99,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (2025)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LRManamperi&theme=github-dark-blue" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LRManamperi&show_icons=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LRManamperi&theme=github-dark-blue&starting_year=2025" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LRManamperi&show_icons=true&theme=github_dark&custom_title=Overall%20GitHub%20Stats" width="49%" />
 </p>
+
